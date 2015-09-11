@@ -4,6 +4,9 @@
 ## Tentang project ini
 Project ini adalah sebuah sistem yang digunakan untuk pemilihan umum online yang aman dan terpercaya. Sistem ini telah diterapkan untuk Pemilu HMIF tahun 2014. Sistem ini terdiri dari **Online Voting Web** dan **Voting Counter** (repo ini).
 
+## Pengembangan dan Kompilasi
+Program ini dikembangkan di lingkungan pengembangan **Visual Studio 2010** dengan bahasa pemrograman C#. Untuk melakukan kompilasi anda mungkin membutuhkan **Visual Studio 2010** atau versi yang lebih baru.
+
 ## Copyright
 Sistem pemilihan beserta software yang digunakan merupakan bagian dari paper yang sedang saya tulis yang bertajuk  `Building a Secure and Trustworthy Online Voting System`. Segala material beserta metode yang saya gunakan boleh anda gunakan untuk keperluan non komersial dengan lisensi GNU. Untuk penggunaan komersial, silahkan hubungi saya untuk informasi lebih lanjut.
 
